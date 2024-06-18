@@ -10,7 +10,7 @@ def main():
     and handles the user interactions.
 
     """
-    st.title('DOCBOT 👾✨')
+    st.title('SCi DOCBOT , Your friendly BOT for all your documents✨')
 
     with st.sidebar:
         st.title('Hi there! 💁‍♀️')
