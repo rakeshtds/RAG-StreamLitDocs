@@ -3,7 +3,7 @@ from doc_processor import DocumentProcessor
 
 
 # setup configuration
-st.set_page_config(page_title='DocBot', layout='wide', page_icon='icons8-chatbot-64.png')
+st.set_page_config(page_title='DocBot', layout='wide', page_icon='Sci.png.png')
 def main():
     """
     This function sets up the Streamlit application 
